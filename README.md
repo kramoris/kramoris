@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lucas
+# 👋 Hi, I'm Lukáš
 
 Welcome to my GitHub profile.
 
