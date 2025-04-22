@@ -16,6 +16,14 @@ I'm completing multiple programming and development certifications, and actively
 
 ---
 
+## 🛠️ Projects
+
+| Project | Description |
+|---------|-------------|
+| 📝 [cli-task-tracker](https://github.com/kramoris/cli-task-tracker) | A simple command-line task tracker built with Python. |
+
+---
+
 ## 📜 Certifications
 
 | Course | Platform | Certificate |
