@@ -16,11 +16,12 @@ I'm completing multiple programming and development certifications, and actively
 
 ---
 
-## 🛠️ Projects
+## 🧪 Code Samples
 
-| Project | Description |
-|---------|-------------|
-| 📝 [cli-task-tracker](https://github.com/kramoris/cli-task-tracker) | A simple command-line task tracker built with Python. |
+| Project | Language |
+|---------|----------|
+| 📝 [cli-task-tracker](https://github.com/kramoris/cli-task-tracker) | Python |
+| 🎯 [number-guessing-game](https://github.com/kramoris/number-guessing-game) | Java |
 
 ---
 
