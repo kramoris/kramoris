@@ -22,6 +22,7 @@ I'm focused on strengthening my programming fundamentals through structured cour
 |---------|----------|
 | [cli-task-tracker](https://github.com/kramoris/cli-task-tracker) | Python |
 | [number-guessing-game](https://github.com/kramoris/number-guessing-game) | Java |
+| [pomodo-mate](https://github.com/kramoris/pomodo-mate) | Java |
 
 ---
 
