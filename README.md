@@ -59,4 +59,4 @@ I'm focused on strengthening my programming fundamentals through structured cour
 
 ## 📫 Contact
 
-- **Email:** youremail@example.com
+- **Email:** kramoris@proton.me
