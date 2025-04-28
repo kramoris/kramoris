@@ -1,18 +1,16 @@
 # 👋 Hi, I'm Lukáš
 
-Welcome to my GitHub profile.
-
-I'm currently learning software development with a focus on **Python**, **Java**, and **Bash**, working primarily in Linux environments.  
-I'm focused on strengthening my programming fundamentals through structured courses and practical coding exercises.
+I'm learning backend software development, currently focusing on **Python**, **Java**, and **Bash**.  
+I build small tools and scripts in Linux environments to practice and solidify new skills.
 
 ---
 
 ## 🎯 About Me
 
-- ✅ Seeking a **Trainee / Entry-level Developer** position  
-- 🐧 Working mainly in Linux environments  
-- 🧠 Learning Python, Bash, and **Java** (via Coursera/Amazon specialization)  
-- 📚 Focused on backend concepts and developer workflows
+- 🚀 Currently looking for a **Trainee / Junior Developer** position  
+- 🐧 Working primarily in Linux environments  
+- 🔧 Getting familiar with version control (Git), CLI tools, and common IDEs  
+- 📖 Actively building fundamentals through structured learning and regular coding practice
 
 ---
 
